@@ -1,7 +1,7 @@
 # Preview
 
-![Alt Text](movie.png)
-![Alt Text](movie_search.png)
+<img src="movie.png" width="260">&emsp;<img src="movie_search.png" width="260">
+
 
 ## Functionalities
 - Search Movies.
